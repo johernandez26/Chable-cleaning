@@ -67,7 +67,9 @@ export default function Home() {
           </div>
           <div className="absolute inset-0 bg-black/40" />
         </div>
-        
+          <div className="absolute top-4 right-4 z-20 bg-black/60 text-white text-xs px-3 py-1 rounded-md">
+            Lic # 3027335
+            </div>
         <div className="container-custom relative z-10 text-white">
           <h1 className="text-4xl md:text-6xl font-bold mb-4">
             Transform Your Space with Professional Home Improvement
